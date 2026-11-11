@@ -61,7 +61,7 @@ The following dashboard was developed using Power BI to present the key findings
 
 ![Global Superstore Dashboard](Global-Superstore-Sales-Dashboard.png)
 
-**Power BI Dashboard:** [Download the Power BI Dashboard]()
+**Power BI Dashboard:** [Download the Power BI Dashboard](https://github.com/Explorer239/global-superstore-sales-dashboard/blob/main/global%20superstore%20sales%20dashboard/Global_Superstore_Dashboard.pbix)
 
 ## Project Files
 
