@@ -1,42 +1,43 @@
-# Global Superstore Sales Analysis & Interactive Excel Dashboard
+# Global Superstore Sales Analysis & Dashboard
 
 ## Project Overview
 
-This project focuses on analysing the Global Superstore dataset and creating an interactive sales dashboard using Microsoft Excel.
+This project focuses on analysing the Global Superstore dataset using Python and developing a dashboard to present meaningful business insights.
 
-I completed this project as part of my **Data Analytics Internship at BeeSkilled**. During the internship, we were assigned four tasks each week. For the fourth task, I was provided with a dataset and instructions to perform data analysis and develop an Excel dashboard.
+I completed this project as part of my **Data Analytics Internship at BeeSkilled**. During the internship, we were assigned four tasks each week. For the fourth task, I was provided with a dataset and instructions to perform data analysis and develop a dashboard.
 
-Based on the given instructions, I explored the dataset, performed analysis, created Pivot Tables and Pivot Charts, and designed an interactive dashboard to present important business insights.
+Based on the given instructions, I explored the dataset, performed data cleaning and analysis, created visualisations, and developed a dashboard to present important business information.
 
 ## Project Objectives
 
-- Analyse the Global Superstore dataset.
+- Analyse the Global Superstore dataset using Python.
 - Understand sales, profit, and order performance.
 - Identify sales trends across different categories and regions.
 - Analyse customer and product performance.
-- Present important findings through an interactive Excel dashboard.
-- Practise data analysis and data visualisation using Microsoft Excel.
+- Create meaningful data visualisations.
+- Present important findings through a dashboard.
+- Practise data analysis and data visualisation using Python.
 
-## Tools and Technologies Used
+## Technologies and Libraries Used
 
-- **Microsoft Excel**
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Data Analysis
-- Data Visualisation
+- **Python:** Main programming language used for data analysis.
+- **Jupyter Notebook:** Environment used for writing and executing Python code.
+- **Pandas:** Used for data cleaning, manipulation, and analysis.
+- **NumPy:** Used for numerical operations and calculations.
+- **Matplotlib:** Used for creating charts and graphs.
+- **Seaborn:** Used for statistical data visualisation.
+- **Cycler:** Used for managing colour cycles in Matplotlib visualisations.
 
 ## Work Performed
 
-The following activities were performed during this project:
-
 1. Explored and understood the provided Global Superstore dataset.
-2. Organised the data for analysis.
-3. Created **8 Pivot Tables** to analyse different aspects of the dataset.
-4. Used Pivot Charts to represent the analysed information visually.
-5. Added slicers to make the dashboard interactive.
-6. Designed an Excel dashboard to display key business information.
-7. Reviewed the results to identify useful business insights.
+2. Loaded and examined the sample dataset using Python.
+3. Performed data cleaning and preparation.
+4. Used Pandas and NumPy for data manipulation and analysis.
+5. Analysed sales and business performance patterns.
+6. Created data visualisations using Matplotlib and Seaborn.
+7. Developed a dashboard to present important findings.
+8. Documented the project work and analysis in a report.
 
 ## Key Analysis Areas
 
@@ -49,37 +50,39 @@ The following activities were performed during this project:
 
 ## Dashboard Features
 
-- Interactive Excel dashboard.
-- 8 Pivot Tables for data analysis.
-- Pivot Charts for visual representation.
-- Slicers for filtering and exploring the data.
-- Multiple views of sales and business performance.
+- Visual representation of sales and business performance.
+- Charts and graphs for presenting analytical findings.
+- Data visualisation using Python libraries.
+- Dashboard designed to make business information easier to understand.
 
 ## Project Files
 
-This repository contains the dataset, Excel analysis work, dashboard, and supporting project files.
+This repository contains the following project materials:
+
+- Jupyter Notebook containing the Python code and analysis.
+- Sample dataset used for the project.
+- Dashboard developed as part of the analysis.
+- Project report documenting the work.
 
 ## Key Learning Outcomes
 
-Through this project, I gained practical experience in:
-
-- Working with a structured business dataset.
-- Analysing data using Microsoft Excel.
-- Creating and working with Pivot Tables.
-- Developing Pivot Charts and interactive slicers.
-- Designing dashboards to present information clearly.
-- Converting raw data into meaningful business insights.
+- Gained practical experience in Python-based data analysis.
+- Improved understanding of data cleaning and data manipulation.
+- Learned to work with Pandas and NumPy.
+- Practised creating visualisations using Matplotlib and Seaborn.
+- Improved understanding of dashboard development.
+- Learned how to communicate data insights through visualisations and reports.
 
 ## Internship Information
 
 - **Internship Provider:** BeeSkilled
 - **Internship Domain:** Data Analytics
-- **Project:** Global Superstore Sales Analysis & Interactive Excel Dashboard
-- **Task:** Fourth assigned task during the internship
+- **Project:** Global Superstore Sales Analysis & Dashboard
+- **Task:** Fourth assigned task during the internship.
 
 ## Conclusion
 
-This project helped me understand how raw business data can be analysed and converted into meaningful insights using Microsoft Excel. It also improved my practical understanding of data analysis, dashboard creation, and data visualisation.
+This project helped me understand how raw business data can be analysed and converted into meaningful insights using Python. It improved my practical understanding of data cleaning, data analysis, data visualisation, and dashboard development.
 
 ---
 
