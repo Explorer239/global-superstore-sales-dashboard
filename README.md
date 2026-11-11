@@ -55,6 +55,12 @@ Based on the given instructions, I explored the dataset, performed data cleaning
 - Data visualisation using Python libraries.
 - Dashboard designed to make business information easier to understand.
 
+## Dashboard Preview
+
+The following dashboard was developed using Power BI to present the key findings from the Global Superstore sales analysis.
+
+![Global Superstore Dashboard](Global-Superstore-Sales-Dashboard.png)
+
 ## Project Files
 
 This repository contains the following project materials:
