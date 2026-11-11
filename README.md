@@ -61,6 +61,8 @@ The following dashboard was developed using Power BI to present the key findings
 
 ![Global Superstore Dashboard](Global-Superstore-Sales-Dashboard.png)
 
+**Power BI Dashboard:** [Download the Power BI Dashboard]()
+
 ## Project Files
 
 This repository contains the following project materials:
